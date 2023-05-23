@@ -1,0 +1,2423 @@
+fileFormatVersion: 2
+guid: 85b7440c3b3083b438505240fa52e1b1
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kao_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 757
+        width: 40
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c61b4f05bef30ac409cc0609074895ba
+      internalID: 950036111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 755
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f3033b252ce55419ea292f37209eee
+      internalID: -1585781032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_2
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 755
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c1b876a29f781489d1354553d06307
+      internalID: -1641405946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 757
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e57d70ad4210b4c8d69f9d491816dc
+      internalID: -1589777866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 758
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d091a965daa8ad4283ae624bf390cab
+      internalID: -1229672366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_5
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 760
+        width: 39
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: decab46b458595949a771b4231b18ba7
+      internalID: -467258941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_6
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 705
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c36f73312eb65c41916f424416adb05
+      internalID: 87180819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_7
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 703
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39f3f2aa1f3bef04f842d5e2648b4feb
+      internalID: 787454219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_8
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 703
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe121570511e8c459b686cc387b2e1b
+      internalID: -754047141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_9
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 703
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7215e5b798bae43adbba6995904e78
+      internalID: 277741843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_10
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 703
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5721afbb8ddc7a84e8bf71bc70ac0839
+      internalID: 773158232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_11
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 701
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3faaf700636fd742a5910a7f4680f45
+      internalID: 76208178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_12
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 700
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33c7a6bae25d8342a789cd66ef4365e
+      internalID: -1984291718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_13
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 702
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db26eacb7d42d5f40abf22896adc02ae
+      internalID: -1807711880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_14
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 698
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bec10782c55bfd49b1244b4e5e8faaa
+      internalID: -1136793834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_15
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 697
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc07830cc05ec15418eb1fce72302537
+      internalID: 214753530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_16
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 695
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86c02301343f984d86d934bc151e527
+      internalID: 111625794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_17
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 695
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1b1c683bbe78643a5124ef84c6f445
+      internalID: 566347969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_18
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 694
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ee46b9c5291ca4a97b5749e5e0f774
+      internalID: 390433326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_19
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 694
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad76c9c4fb26aae4a8dd23efdd73b6f2
+      internalID: 1067536314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_20
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 693
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2880906520ca63498be4ef83eac30cb
+      internalID: 1005995116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_21
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 647
+        width: 46
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b801cc0c814be40893ce5181bd2155
+      internalID: 90353631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_22
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 646
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7045e3c6d5b99d3429a4327de1566838
+      internalID: 240489906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_23
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 645
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61eb41ff8e29d7e41a317f4049967d06
+      internalID: 825797703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_24
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 648
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ff907714c14474ebcae26de0e005d4
+      internalID: 1835030295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_25
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 647
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f810e403d055904c9e77913ea59f81b
+      internalID: -1968658138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_26
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 648
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55ff67eae1e4e8942ae73de43b9d333b
+      internalID: -1178931938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_27
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 647
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ff580852ed327469526d1965ef196c
+      internalID: 1458980914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_28
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 645
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82e048129c42c84e927a970c0af9de9
+      internalID: -1601539913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_29
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 647
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6957663da4f7d4abcaa18344769855
+      internalID: -34666431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_30
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 647
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f16c421a4fec64c872fb56e1a881c3
+      internalID: -66963290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_31
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 645
+        width: 50
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43fd24a425ece7e4484c22c59a542aed
+      internalID: 698947611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_32
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 644
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 203fcce0993477c4a978b0ab1749d5b2
+      internalID: 46974056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_33
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 577
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a4d5651ff7a4b4aa0a6fc5e9065ed3
+      internalID: 1253135816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_34
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 575
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b9fca0dce6c9046a88867e60805b1e
+      internalID: 1901033207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_35
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 575
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f71e255b38cc1b4a94453c8cf279b56
+      internalID: -1766400695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_36
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 575
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982b410e535f4594a8342b876bdac427
+      internalID: -1316258828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_37
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 574
+        width: 45
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c9d238f96380f48a573c1fb40b170c
+      internalID: 1170416828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_38
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 575
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19b7253355188d7458018a83097251bc
+      internalID: -1590593895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_39
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 571
+        width: 53
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cca831b6032e15438705ddaa2f1fadb
+      internalID: -470400906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_40
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 568
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3e8f473936fd84fabfd906a5bad96d
+      internalID: 677279536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_41
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 568
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef05c815cb2bcd4499ac9d6629adfe8
+      internalID: -634163674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_42
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 518
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b01c7792524b6a4449253d637d74cf8d
+      internalID: -763096855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_43
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 515
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bc023c662e7834db0ff1866a7cfdb2
+      internalID: -2055781277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_44
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 514
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d486af0de23c764d97ed71557919053
+      internalID: -1555753790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_45
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 511
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b488a3e08456048bbdb73067a3018a
+      internalID: 457803527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_46
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 512
+        width: 68
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7970321604365a14b80eea2c63bc325a
+      internalID: 1935915298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 507
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6cd927e3c29f041887a313aad8eddd
+      internalID: -1888376553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_48
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 503
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcd1d4fb6e4c9547ba8915a111de6ce
+      internalID: -1553327621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_49
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 503
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3037ea033cf849c42b389132fee46195
+      internalID: 1141138305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_50
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 500
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f43f8bf90661714da4b6ebb1e80f0f0
+      internalID: -1252523222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_51
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 499
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f9dd3a051a24d4db608240ed571879
+      internalID: 30777070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_52
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 466
+        width: 36
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a122a9079b664e3489746a31a07d37bc
+      internalID: -490410751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_53
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 462
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6079ed7c0cce92c48a050416213ed7b9
+      internalID: -345224684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_54
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 460
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a965f793cb9634c958710f6d6203d9
+      internalID: 649981615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_55
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 455
+        width: 34
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f467e267723ff04e9dcdc9f6ebd1612
+      internalID: 245218892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_56
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 453
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e4a4b1a92c84c4891d73b75505e108
+      internalID: 1670167747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_57
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 453
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bd44f419fef9f4c9e85789e1435515
+      internalID: -1415837785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_58
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 453
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffebf1bfd36e1034b86f13103e304805
+      internalID: 1012093242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_59
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 452
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b6ec72506f6b8489d763d97de4fbf1
+      internalID: 576306361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_60
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 451
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48234e1503867846b8e580fec5fe768
+      internalID: -1355073785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_61
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 449
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514706ff522a06f45bee6daaa343b216
+      internalID: 2092825575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_62
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 415
+        width: 53
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e666cb41f806841b4cb5d70084d6c4
+      internalID: 1875093489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_63
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 356
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 723a8661d7e70e14298d80d1702e2f08
+      internalID: 1460643115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_64
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 357
+        width: 41
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6cf16a6a8bdce3499b534d74fa24fe6
+      internalID: 1220009260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_65
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 358
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8686a2b98ae6e0468464be1d40fa1e3
+      internalID: 1570624184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_66
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 357
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d5e90c9168f1248818b34910b9da79
+      internalID: 769645838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_67
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 357
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34141136334fd747bb213fa85790de8
+      internalID: 945606850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_68
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 354
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feac5559291c16948b790905432cc8a6
+      internalID: -1290610635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_69
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 308
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8234a63fe79f6e4bb6bb362f0e76b4a
+      internalID: -1494362796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_70
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 306
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ff13823ec5736408d4250af157323b
+      internalID: 162380096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_71
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 307
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5155f844b919d174dbf8857bc955cc5b
+      internalID: 935859247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_72
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 303
+        width: 63
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55085493eb2a629418cb03b882b8b652
+      internalID: 443520786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_73
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 304
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f202d4a2e1865154cb2870f93a4f74b7
+      internalID: -1850437246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_74
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 306
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cff37fe9d47e5641a12f828f4fedac4
+      internalID: -1159854034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_75
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 303
+        width: 47
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4b0a94f911a064385189dcb1c792cc
+      internalID: 1499930775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_76
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 303
+        width: 64
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b7d4d11df16dc4191e8f36611e8499
+      internalID: -100366513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_77
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 247
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1a6747593d0644aa12b74c27209d81
+      internalID: -724016567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_78
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 247
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1724a3089c0af4c4a92f8b0c8e426281
+      internalID: -1726331378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_79
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 248
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff10ea87f457604bad78dc5412cf265
+      internalID: 825740114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_80
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 244
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39c63e1ef486d14ca2b09d67ec5c8bf
+      internalID: -903617385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_81
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 239
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b1a0aad36887142b75067d8585daf2
+      internalID: 911315114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_82
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 237
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5e2ee06100be54aaace0a344270231
+      internalID: 1938682423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_83
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 239
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1607b30f39f65d42857e4bc5d702e65
+      internalID: -1224238246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_84
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 236
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5224b10da02055b438d801a062809909
+      internalID: -1252138406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_85
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 240
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5488cbce5eefbe47930549aa4a5776f
+      internalID: 599991768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_86
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 241
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f9d47d0de1962f42b121bb9f0dbb9ed
+      internalID: -907226525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_87
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 239
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97ae46f547aa214cb1c5b7e0f3b6664
+      internalID: 1629254656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_88
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 240
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1391839dd88e0408e24af2ad8b34bf
+      internalID: -1320699223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_89
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 178
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10821c988b18c654f9f861b3791da39d
+      internalID: 1684762433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_90
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 178
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bd3a4cf06f3c24ea6cfbdbb79445b4
+      internalID: -1110739284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_91
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 177
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd85aa72cff42f14aa2de412cfd4bce7
+      internalID: -110827821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_92
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 178
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffcdc21b1cbb904389aaa2b1ea8e1d0
+      internalID: -1433628312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_93
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 178
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbbf76af4c43184187f356a15845429
+      internalID: 1942030986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_94
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 179
+        width: 44
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d5be9e71e716a146abd22be78b9c378
+      internalID: -2055771175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_95
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 178
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d141158484b76841bff00e84027451d
+      internalID: -876280480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_96
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 177
+        width: 47
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7f5120905b14c54d844af8d9dc97413
+      internalID: 249453364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 123
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1769d08268985448b79f1966c613417
+      internalID: 1753024368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_98
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 127
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1c047bcdbbee54a8a6d320bd6bf55a
+      internalID: 848149244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_99
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 126
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552dfff1c8721814e9f939b1a27ee349
+      internalID: -1901835055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_100
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 132
+        width: 49
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2123596a952a244805c0fb543c6614
+      internalID: -330373987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_101
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 131
+        width: 51
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace5bd3373d17ec4ba2813198c3c8b62
+      internalID: 1041324250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_102
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 130
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5849d24222b064481f26fa58659d10
+      internalID: -111263115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kao_103
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 130
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1e2254257eb4346ba2128eeb01b7b7
+      internalID: 1292815053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Kao_0: 950036111
+      Kao_1: -1585781032
+      Kao_10: 773158232
+      Kao_100: -330373987
+      Kao_101: 1041324250
+      Kao_102: -111263115
+      Kao_103: 1292815053
+      Kao_11: 76208178
+      Kao_12: -1984291718
+      Kao_13: -1807711880
+      Kao_14: -1136793834
+      Kao_15: 214753530
+      Kao_16: 111625794
+      Kao_17: 566347969
+      Kao_18: 390433326
+      Kao_19: 1067536314
+      Kao_2: -1641405946
+      Kao_20: 1005995116
+      Kao_21: 90353631
+      Kao_22: 240489906
+      Kao_23: 825797703
+      Kao_24: 1835030295
+      Kao_25: -1968658138
+      Kao_26: -1178931938
+      Kao_27: 1458980914
+      Kao_28: -1601539913
+      Kao_29: -34666431
+      Kao_3: -1589777866
+      Kao_30: -66963290
+      Kao_31: 698947611
+      Kao_32: 46974056
+      Kao_33: 1253135816
+      Kao_34: 1901033207
+      Kao_35: -1766400695
+      Kao_36: -1316258828
+      Kao_37: 1170416828
+      Kao_38: -1590593895
+      Kao_39: -470400906
+      Kao_4: -1229672366
+      Kao_40: 677279536
+      Kao_41: -634163674
+      Kao_42: -763096855
+      Kao_43: -2055781277
+      Kao_44: -1555753790
+      Kao_45: 457803527
+      Kao_46: 1935915298
+      Kao_47: -1888376553
+      Kao_48: -1553327621
+      Kao_49: 1141138305
+      Kao_5: -467258941
+      Kao_50: -1252523222
+      Kao_51: 30777070
+      Kao_52: -490410751
+      Kao_53: -345224684
+      Kao_54: 649981615
+      Kao_55: 245218892
+      Kao_56: 1670167747
+      Kao_57: -1415837785
+      Kao_58: 1012093242
+      Kao_59: 576306361
+      Kao_6: 87180819
+      Kao_60: -1355073785
+      Kao_61: 2092825575
+      Kao_62: 1875093489
+      Kao_63: 1460643115
+      Kao_64: 1220009260
+      Kao_65: 1570624184
+      Kao_66: 769645838
+      Kao_67: 945606850
+      Kao_68: -1290610635
+      Kao_69: -1494362796
+      Kao_7: 787454219
+      Kao_70: 162380096
+      Kao_71: 935859247
+      Kao_72: 443520786
+      Kao_73: -1850437246
+      Kao_74: -1159854034
+      Kao_75: 1499930775
+      Kao_76: -100366513
+      Kao_77: -724016567
+      Kao_78: -1726331378
+      Kao_79: 825740114
+      Kao_8: -754047141
+      Kao_80: -903617385
+      Kao_81: 911315114
+      Kao_82: 1938682423
+      Kao_83: -1224238246
+      Kao_84: -1252138406
+      Kao_85: 599991768
+      Kao_86: -907226525
+      Kao_87: 1629254656
+      Kao_88: -1320699223
+      Kao_89: 1684762433
+      Kao_9: 277741843
+      Kao_90: -1110739284
+      Kao_91: -110827821
+      Kao_92: -1433628312
+      Kao_93: 1942030986
+      Kao_94: -2055771175
+      Kao_95: -876280480
+      Kao_96: 249453364
+      Kao_97: 1753024368
+      Kao_98: 848149244
+      Kao_99: -1901835055
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

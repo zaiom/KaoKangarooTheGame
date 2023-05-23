@@ -38,6 +38,27 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: BackgroundBack
+    uniqueID: 3295312373
+    locked: 0
+  - name: BackgroundFront
+    uniqueID: 884824805
+    locked: 0
+  - name: Clouds
+    uniqueID: 395217285
+    locked: 0
+  - name: Sea
+    uniqueID: 345054595
+    locked: 0
+  - name: Hill
+    uniqueID: 1314286717
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Terrain
+    uniqueID: 3211650059
+    locked: 0
+  - name: Decorations
+    uniqueID: 2284707663
     locked: 0
