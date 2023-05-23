@@ -25,7 +25,7 @@ Physics2DSettings:
     useConsistencySorting: 0
     m_InterpolationPosesPerJob: 100
     m_NewContactsPerJob: 30
-    m_CollideContactsPerJob: 100
+    m_CollideContactsPerJob: 200
     m_ClearFlagsPerJob: 200
     m_ClearBodyForcesPerJob: 200
     m_SyncDiscreteFixturesPerJob: 50

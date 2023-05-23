@@ -6,19 +6,40 @@ using UnityEngine.UI;
 public class Healthbar : MonoBehaviour
 {
     public int health;
-    
+    public int coins;
+
     public Image[] hearts;
+    public Image coinImage;
     public Sprite fullHeart;
     public Sprite emptyHeart;
+    public Sprite coinSprite;
 
-    void Update(){
+    public Text coinCountText;
 
-        for (int i = 0; i <hearts.Length; i++) {
-            if (i < health){
+    void Update()
+    {
+        UpdateHearts();
+        UpdateCoins();
+    }
+
+    void UpdateHearts()
+    {
+        for (int i = 0; i < hearts.Length; i++)
+        {
+            if (i < health)
+            {
                 hearts[i].sprite = fullHeart;
-            } else {
+            }
+            else
+            {
                 hearts[i].sprite = emptyHeart;
             }
         }
+    }
+
+    void UpdateCoins()
+    {
+        coinImage.sprite = coinSprite;
+        coinCountText.text = 'x'+coins.ToString();
     }
 }
