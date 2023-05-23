@@ -4914,12 +4914,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   health: 2
+  coins: 0
   hearts:
   - {fileID: 0}
   - {fileID: 0}
   - {fileID: 0}
+  coinImage: {fileID: 0}
   fullHeart: {fileID: -1206744899, guid: 112cb2cf7ad0eb74d98299779bfa3288, type: 3}
   emptyHeart: {fileID: 1371141597, guid: 112cb2cf7ad0eb74d98299779bfa3288, type: 3}
+  coinSprite: {fileID: 0}
+  coinCountText: {fileID: 0}
 --- !u!114 &489995141
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6379,7 +6383,7 @@ Camera:
     m_Bits: 4294967295
   m_RenderingPath: 1
   m_TargetTexture: {fileID: 0}
-  m_TargetDisplay: 1
+  m_TargetDisplay: 0
   m_TargetEye: 3
   m_HDR: 1
   m_AllowMSAA: 0
