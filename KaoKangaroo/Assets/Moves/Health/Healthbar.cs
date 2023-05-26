@@ -15,11 +15,14 @@ public class Healthbar : MonoBehaviour
     public Sprite coinSprite;
 
     public Text coinCountText;
-
+    void Start()
+    {
+        coinImage.sprite = coinSprite;
+    }
     void Update()
     {
         UpdateHearts();
-        UpdateCoins();
+        
     }
 
     void UpdateHearts()
@@ -37,9 +40,19 @@ public class Healthbar : MonoBehaviour
         }
     }
 
-    void UpdateCoins()
+
+    void OnTriggerEnter2D(Collider2D kolizja)
     {
-        coinImage.sprite = coinSprite;
+        if (kolizja.gameObject.CompareTag("Coin"))
+    {
+        AddCoin(1); // Dodaj 1 monetę
+        kolizja.gameObject.SetActive(false);
+    }
+    }
+    public void AddCoin(int ilePunktowDodac)
+    {
+        coins = coins + ilePunktowDodac;
+        print("Dodano " + ilePunktowDodac + " monet...");
         coinCountText.text = 'x'+coins.ToString();
     }
 }
