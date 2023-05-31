@@ -19,7 +19,7 @@ public class jumpControl : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         isGrounded = false;
         canJump = true;
-        defaultFriction = playerCollider.sharedMaterial.friction;
+        defaultFriction = Physics2D.defaultContactOffset;
     }
 
     void Update()
