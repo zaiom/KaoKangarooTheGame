@@ -48,11 +48,24 @@ public class Healthbar : MonoBehaviour
         AddCoin(1); // Dodaj 1 monetę
         kolizja.gameObject.SetActive(false);
     }
+    if (kolizja.gameObject.CompareTag("Heart"))
+    {
+        AddHeart(1); // Dodaj serce
+        kolizja.gameObject.SetActive(false);
+    }
     }
     public void AddCoin(int ilePunktowDodac)
     {
         coins = coins + ilePunktowDodac;
         print("Dodano " + ilePunktowDodac + " monet...");
         coinCountText.text = 'x'+coins.ToString();
+    }
+    public void AddHeart(int ilePunktowDodac)
+    {
+        health = health + ilePunktowDodac;
+        if (health > 3){
+            health = 3;
+        }
+        print("Dodano życie");
     }
 }
