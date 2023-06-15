@@ -42,8 +42,7 @@ public class jumpControl : MonoBehaviour
         // Skok po wciśnięciu przycisku i gdy postać stoi na podłożu i może skakać
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded && canJump)
         {
-            rb.velocity = new Vector2(rb.velocity.x, jumpForce);
-            canJump = false;
+            jump();
         }
     }
 
@@ -76,5 +75,11 @@ public class jumpControl : MonoBehaviour
         PhysicsMaterial2D material = new PhysicsMaterial2D();
         material.friction = friction;
         playerCollider.sharedMaterial = material;
+    }
+
+    public void jump()
+    {
+        rb.velocity = new Vector2(rb.velocity.x, jumpForce);
+        canJump = false;
     }
 }
