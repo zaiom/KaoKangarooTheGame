@@ -247,9 +247,9 @@ private IEnumerator ResetDamage()
         health = health + ilePunktowDodac;
         if (health > 3){
             health = 3;
-            zrodlodzwieku.clip = heartpick;
-            zrodlodzwieku.Play();
-        }
+        }            
+        zrodlodzwieku.clip = heartpick;
+        zrodlodzwieku.Play();
         print("Dodano życie");
     }
 private IEnumerator ResetCharacterPosition()
