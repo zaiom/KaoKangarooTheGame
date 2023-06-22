@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
- 
+
 public class Move : MonoBehaviour
 {
     private Animator animator;
@@ -17,6 +17,11 @@ public class Move : MonoBehaviour
     private float previousDirectionX = 1f;
     public int health;
     public int coins;
+    public AudioSource zrodlodzwieku;
+    public AudioClip hit;
+    public AudioClip heartpick;
+    public AudioClip coinpick;
+    public AudioClip kill;
 
     public Image[] hearts;
     public Image coinImage;
@@ -135,11 +140,13 @@ private void OnCollisionEnter2D(Collision2D collision)
             // Sprawdź, czy kolizja nastąpiła z góry
             if (contactNormal.y > 0)
             {
+                zrodlodzwieku.PlayOneShot(kill);
                 myRigidbody.velocity = new Vector2(myRigidbody.velocity.x, jumpForce);
                 continue; // Jeśli kolizja nastąpiła z góry, przejdź do następnego kontaktu
             }
 
             // Jeśli kolizja nastąpiła z innej strony niż dół, zmniejsz health
+            zrodlodzwieku.PlayOneShot(hit);
             health--;
 
 
@@ -215,6 +222,7 @@ private IEnumerator ResetDamage()
             myRigidbody.velocity = new Vector2(myRigidbody.velocity.x, 9f);
             StartCoroutine(ResetCharacterPosition());
             health--;
+            zrodlodzwieku.PlayOneShot(hit);
         }
         if (kolizja.gameObject.CompareTag("Coin"))
     {
@@ -232,12 +240,15 @@ private IEnumerator ResetDamage()
         coins = coins + ilePunktowDodac;
         print("Dodano " + ilePunktowDodac + " monet...");
         coinCountText.text = 'x'+coins.ToString();
+        zrodlodzwieku.PlayOneShot(coinpick);
     }
     public void AddHeart(int ilePunktowDodac)
     {
         health = health + ilePunktowDodac;
         if (health > 3){
             health = 3;
+            zrodlodzwieku.clip = heartpick;
+            zrodlodzwieku.Play();
         }
         print("Dodano życie");
     }

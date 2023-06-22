@@ -12,6 +12,8 @@ public class jumpControl : MonoBehaviour
     private PolygonCollider2D playerCollider;
     private float defaultFriction;
     private float slipperyFriction = 0f;
+    public AudioSource zrodlodzwieku;
+    public AudioClip skok;
 
     void Start()
     {
@@ -42,6 +44,7 @@ public class jumpControl : MonoBehaviour
         // Skok po wciśnięciu przycisku i gdy postać stoi na podłożu i może skakać
         if (Input.GetKeyDown(KeyCode.Space) && isGrounded && canJump)
         {
+            zrodlodzwieku.PlayOneShot(skok);
             jump();
         }
     }
